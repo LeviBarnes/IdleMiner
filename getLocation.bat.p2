@@ -1,0 +1,3 @@
+   <button onclick="closeHTA(1);">Submit</button>
+</BODY>
+</HTML>

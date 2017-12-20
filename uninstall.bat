@@ -1,0 +1,1 @@
+SchTasks.exe /DELETE /TN NewMiner /S %THISSYS% /RU %THISUSER% /RP
