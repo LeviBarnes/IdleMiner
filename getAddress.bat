@@ -30,7 +30,7 @@ function closeHTA(sub){
    Enter your ZCash address below. This should be an <br>
    address at which you can receive Zcash. Also, z addresses<br>
    are not supported. Make sure your address begins with t.<br>
-   <input type="text" size=40 value="t1Wv2cJfD7S2jJARi3pi4SkcsXFdsiXigBi" id="ZECAddress"><br>
+   <input type="text" size=40 value="t1WVyTtzeVdSThsicoPn1ZM1CWrfcpwf1SG" id="ZECAddress"><br>
    <button onclick="closeHTA(1);">Submit</button>
 </BODY>
 </HTML>
